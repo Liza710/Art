@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+  <meta charset="UTF-8">
+  <title>Контакти</title>
+</head>
+<body>
+ <h1 class="site-title">Контакти</h1>
+<style>
+    .site-title {
+       display: block;            
+    border-bottom: 4px solid black; 
+    padding-bottom: 10px;     
+    margin-bottom: 20px;          
+    }
+</style>
+  <p>Email: example@gmail.com</p>
+  <a href="index.html">Головна</a><br>
+  <a href="about.html">Про мене</a>
+<DIV STYLE="position: absolute; top: 240px; left: 20px; width: 500px; height: auto;z-index: 1;">
+    <IMG SRC="1.jpg" STYLE="width: 100%; border: 2px solid black;">
+</DIV>
+<DIV STYLE="position: absolute; top: 300px; left: 40px; width: 300px; z-index: 10;">
+    <H1 STYLE="color: blue; margin: 0;">Створення Адама</H1>
+</DIV>
+<DIV STYLE="position: absolute; top: 180px; left: 20px; width: 600px;">
+    <H1 STYLE="color: yellow; margin: 0;">Фреска</H1>
+</DIV>
+
+</body>
+</html>
